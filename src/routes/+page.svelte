@@ -1,7 +1,7 @@
 <h1>Welcome to SvelteKit</h1>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 <script>
-  let name = 'Svelte';
+  let src = '/image.gif'
 </script>
 
-<h1>Hello {name.toUpperCase()}</h1>
+<img src={src} alt="a man dances."/>
