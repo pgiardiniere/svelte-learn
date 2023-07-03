@@ -1,4 +1,1 @@
-<nav>
-  <a href="/">home</a>
-  <a href="/about">about</a>
-</nav>
+<p>This page is empty yo</p>
